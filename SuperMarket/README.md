@@ -1,11 +1,21 @@
-RAHUL ECOMMERCE SALES DASHBOARD
-## Problem Statement
+Super Market SALES DASHBOARD
 
-This dashboard helps the Owner of Rahul
-Store wants us to help them create a dashboard to
-track and analyze their online sales across India.
- 
+
+OBJECTIVE
+ To contribute to the success of a business by utilizing data analysis techniques, specifically focusingon time series analysis, to provide valuable insights and accurate sales forecasting.
+
+ DESCRIPTION
+The objective can be broken down into the following detailed components:
+1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
+
+2.Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
+
+3. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
+
+4.Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and
+support the supermarket's goals for growth, efficiency, and customer satisfaction
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Rahulecommerca](https://github.com/user-attachments/assets/94d2690d-95b4-4140-99e4-d4e6bd8f9abe)
+![Sales(https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/SuperMarket/Dashboard.png)]
+![SalesForcast(https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/SuperMarket/salesforcast.png)]
