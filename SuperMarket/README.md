@@ -1,9 +1,9 @@
-##SUPER MARKET SALES DASHBOARD
+## SUPER MARKET SALES DASHBOARD
 
-##OBJECTIVE
+## OBJECTIVE
  To contribute to the success of a business by utilizing data analysis techniques, specifically focusingon time series analysis, to provide valuable insights and accurate sales forecasting.
  
-##DESCRIPTION
+## DESCRIPTION
  
  The objective can be broken down into the following detailed components:
   
