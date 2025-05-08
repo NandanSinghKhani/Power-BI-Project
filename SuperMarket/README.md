@@ -1,10 +1,8 @@
-Super Market SALES DASHBOARD
-
+SUPER MARKET SALES DASHBOARD
 
 OBJECTIVE
  To contribute to the success of a business by utilizing data analysis techniques, specifically focusingon time series analysis, to provide valuable insights and accurate sales forecasting.
-
- DESCRIPTION
+DESCRIPTION
 The objective can be broken down into the following detailed components:
 1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
 
@@ -17,5 +15,5 @@ support the supermarket's goals for growth, efficiency, and customer satisfactio
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Sales(https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/SuperMarket/Dashboard.png)]
-![SalesForcast(https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/SuperMarket/salesforcast.png)]
+![Sales](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/SuperMarket/Dashboard.png)
+![SalesForcast](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/SuperMarket/salesforcast.png)
