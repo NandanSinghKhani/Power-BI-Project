@@ -10,7 +10,7 @@
   1. Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users 
    to explore the data at various levels of granularity
 
-  2.Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
+   2. Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
 
   3. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
 
