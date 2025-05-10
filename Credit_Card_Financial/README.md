@@ -25,6 +25,6 @@ transactions
  • Overall Delinquent rate is 6.06%
 
 ![Credit_Transaction](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Transaction.png)
- ![Credit_customer](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Customer.png))
+ ![Credit_customer](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Customer.png)
 
   
