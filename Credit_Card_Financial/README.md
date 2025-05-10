@@ -24,6 +24,7 @@ transactions
  • Overall Activation rate is 57.5%
  • Overall Delinquent rate is 6.06%
 
- ![Credit_customer](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Customer.png))
 ![Credit_Transaction](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Transaction.png)
+ ![Credit_customer](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Customer.png))
+
   
