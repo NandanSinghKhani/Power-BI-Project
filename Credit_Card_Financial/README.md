@@ -8,7 +8,7 @@ enabling stakeholders to monitor
 and analyze credit card operations 
 effectively
 
-## Project Insights- Week 53 (31st Dec)
+## Project Insights
 ## WoW change: 
 • Revenue increased by 28.8%, 
 • Total Transaction Amt & Count increased by xx% & xx%
@@ -23,3 +23,7 @@ transactions
  • TX, NY & CA is contributing to 68%
  • Overall Activation rate is 57.5%
  • Overall Delinquent rate is 6.06%
+
+ ![Credit_customer](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Customer.png))
+![Credit_Transaction](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Credit_Card_Financial/Transaction.png)
+  
