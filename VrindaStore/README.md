@@ -1,11 +1,11 @@
-RAHUL ECOMMERCE SALES DASHBOARD
+Vrida Store Annual Report
 ## Problem Statement
 
-This dashboard helps the Owner of Rahul
+This dashboard helps the Owner of 
 Store wants us to help them create a dashboard to
 track and analyze their online sales across India.
  
- # Report Snapshot (Power BI DESKTOP)
+ # Report Snapshot 
 
  
-![Rahulecommerca](https://github.com/user-attachments/assets/94d2690d-95b4-4140-99e4-d4e6bd8f9abe)
+![Rahulecommerca](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/VrindaStore/Image.png)
