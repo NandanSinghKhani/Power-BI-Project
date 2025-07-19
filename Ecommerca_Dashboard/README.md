@@ -8,4 +8,4 @@ track and analyze their online sales across India.
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Rahulecommerca](https://github.com/user-attachments/assets/94d2690d-95b4-4140-99e4-d4e6bd8f9abe)
+![Rahulecommerca](https://github.com/NandanSinghKhani/Power-BI-Project/blob/main/Ecommerca_Dashboard/Ecommerca.png)
